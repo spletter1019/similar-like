@@ -73,7 +73,7 @@ export const NewStudentInputTable: React.FC<NewStudentInputTableProps> = ({
           <div>
             <h2 className="text-base font-bold text-slate-800 flex items-center gap-1.5">
               <UserPlus className="w-4 h-4 text-indigo-600" />
-              새로운 학생 점수 입력 창 (2행 6열 표)
+              내 취향 순위 입력
             </h2>
             <p className="text-xs text-slate-500">
               비교 대상이 될 새로운 학생 한 명의 학번/이름과 가장 선호하는 항목부터 차례대로 점수(1점, 2점, 3점, 4점, 5점)를 입력하세요. (예시는 희미하게 표시됩니다)

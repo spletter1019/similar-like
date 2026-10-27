@@ -29,7 +29,7 @@ export const ItemNameEditor: React.FC<ItemNameEditorProps> = ({ items, onChange 
           <div>
             <h2 className="text-base font-bold text-slate-800 flex items-center gap-1.5">
               <Tag className="w-4 h-4 text-indigo-600" />
-              항목 명칭 5가지 입력 창
+              5가지 항목 입력
             </h2>
             <p className="text-xs text-slate-500">
               학생들이 가장 선호하는 항목부터 차례대로 점수(1점, 2점, 3점, 4점, 5점)를 매길 5개 항목의 이름을 입력하세요. (예시 항목은 희미하게 표시됩니다)

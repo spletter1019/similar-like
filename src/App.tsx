@@ -79,7 +79,7 @@ export default function App() {
               고등학교 인공지능 수학 교과 연계
             </span>
             <h2 className="text-xl sm:text-2xl font-black tracking-tight">
-              학생 취향 선호도 점수 벡터 유사도 분석
+              취향 유사도 분석
             </h2>
             <p className="text-xs sm:text-sm text-indigo-200 mt-1 max-w-3xl leading-relaxed">
               사전에 입력한 5가지 항목에 대해 최대 30명의 학생이 가장 선호하는 항목부터 차례대로 부여한 점수(1점, 2점, 3점, 4점, 5점)를 벡터화하고,

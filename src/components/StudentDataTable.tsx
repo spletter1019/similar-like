@@ -247,7 +247,7 @@ export const StudentDataTable: React.FC<StudentDataTableProps> = ({
           <div>
             <h2 className="text-base font-bold text-slate-800 flex items-center gap-1.5">
               <Table className="w-4 h-4 text-indigo-600" />
-              구글 설문 결과 연동 표 (31행 6열)
+              설문 결과
             </h2>
             <p className="text-xs text-slate-500">
               1행에는 항목 명칭이 자동 연동되며, 1열에는 학생의 학번/이름, 2~6열에는 5개 항목의 응답 점수(가장 선호하는 것부터 1점, 2점, 3점, 4점, 5점)가 드롭다운 없이 직접 표시됩니다.

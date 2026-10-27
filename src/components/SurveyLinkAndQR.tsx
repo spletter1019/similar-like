@@ -110,7 +110,7 @@ export const SurveyLinkAndQR: React.FC<SurveyLinkAndQRProps> = ({
           <div>
             <h2 className="text-base font-bold text-slate-800 flex items-center gap-1.5">
               <QrCode className="w-4 h-4 text-indigo-600" />
-              학생 응답용 구글 설문 링크 또는 QR코드 입력 창
+              응답용 설문 링크 또는 QR코드 입력
             </h2>
             <p className="text-xs text-slate-500">
               구글 설문지 링크를 입력하면 바로 아래 창에 학생 접속용 QR 코드가 자동으로 생성됩니다.
